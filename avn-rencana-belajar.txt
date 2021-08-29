@@ -4,6 +4,7 @@ RENCANA BELAJAR
   *Framework
   ^Vue
   ^React
+  ^Angular
 - Bootsrap 3,4 dan 5
 - Object pada Javascript
 - phyton
