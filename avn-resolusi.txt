@@ -1,3 +1,4 @@
 AVN RESOLUSI
 -Konsisten Belajar Programming
 -Belajar menggunakan javascript dan bootstrap
+-Membuat website portofolio
