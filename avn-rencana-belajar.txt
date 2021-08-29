@@ -2,3 +2,4 @@ RENCANA BELAJAR
 
 - JavaScript
 - Bootsrap 3,4 dan 5
+- DOM Javascript
