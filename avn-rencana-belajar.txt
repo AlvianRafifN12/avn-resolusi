@@ -3,6 +3,7 @@ RENCANA BELAJAR
 - JavaScript
   *Framework
   ^Vue
+  ^React
 - Bootsrap 3,4 dan 5
 - DOM Javascript
 - Object pada Javascript
